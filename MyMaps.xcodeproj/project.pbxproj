@@ -14,6 +14,7 @@
 		F8E836152B7FA7D900D0A3FB /* MyMapsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E836142B7FA7D900D0A3FB /* MyMapsTests.swift */; };
 		F8E8361F2B7FA7D900D0A3FB /* MyMapsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E8361E2B7FA7D900D0A3FB /* MyMapsUITests.swift */; };
 		F8E836212B7FA7D900D0A3FB /* MyMapsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E836202B7FA7D900D0A3FB /* MyMapsUITestsLaunchTests.swift */; };
+		F8E8362E2B7FCDC300D0A3FB /* LocationDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E8362D2B7FCDC300D0A3FB /* LocationDetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F8E8361A2B7FA7D900D0A3FB /* MyMapsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMapsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8E8361E2B7FA7D900D0A3FB /* MyMapsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMapsUITests.swift; sourceTree = "<group>"; };
 		F8E836202B7FA7D900D0A3FB /* MyMapsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMapsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F8E8362D2B7FCDC300D0A3FB /* LocationDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F8E836052B7FA7D700D0A3FB /* ContentView.swift */,
 				F8E836072B7FA7D900D0A3FB /* Assets.xcassets */,
 				F8E836092B7FA7D900D0A3FB /* Preview Content */,
+				F8E8362D2B7FCDC300D0A3FB /* LocationDetailsView.swift */,
 			);
 			path = MyMaps;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8E836062B7FA7D700D0A3FB /* ContentView.swift in Sources */,
+				F8E8362E2B7FCDC300D0A3FB /* LocationDetailsView.swift in Sources */,
 				F8E836042B7FA7D700D0A3FB /* MyMapsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
